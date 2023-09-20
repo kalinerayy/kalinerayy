@@ -1,6 +1,9 @@
-**oie**
-- 👋 Boas vindas ao meu perfil
-- Estou me desenvolvendo na linguagem JavaScript
+**bem-vindo **
+
+
+-sou estudante de t.i 💻
+- Boas vindas ao meu perfil
+- Estou me desenvolvendo na linguagem JavaScript☕
 - 💞️ Utilizo esse espaço para organição dos meu projetos 
 
 
