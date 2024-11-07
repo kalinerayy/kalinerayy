@@ -2,8 +2,7 @@
 
 - Boas vindas ao meu perfil
 -sou estudante de t.i 💻
-- Estou me desenvolvendo na linguagem JavaScript☕
-- 💞️ Utilizo esse espaço para organição dos meu projetos 
+- 💞️ Utilizo esse espaço para organição dos meu projeto
 
 
 <!---
