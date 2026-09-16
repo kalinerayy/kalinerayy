@@ -1,19 +1,21 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=FF69B4&width=700&lines=kalinerayy%40kali%3A~%24+whoami;kalinerayy" />
-```text
-┌─────────────────────────────────┐
-│ kali@github                     │
-├─────────────────────────────────┤
-│ role    : cyber student         │
-│ focus   : cybersecurity         │
-│ tools   : kali linux            │
-│           wireshark             │
-│           cisco packet tracer   │
-│           python                │
-│ status  : learning              │
-└─────────────────────────────────┘
-```
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=FF69B4&width=700&lines=kalinerayy%40kali%3A~%24+whoami;curious+mind" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=learning..." />
+<pre>
+┌────────────────────────┐
+│ kali@github            │
+├────────────────────────┤
+│ role   : cyber student │
+│ focus  : cybersecurity │
+│ tools  : kali linux    │
+│          wireshark     │
+│          cisco packet  │
+│          tracer        │
+│          python        │
+│ status : learning      │
+└────────────────────────┘
+</pre>
 
              ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
